@@ -1,9 +1,8 @@
 ```console
-      /\         root@accomplis 
-     /  \        OS: Ubuntu 20.04 
-    /\   \       Packages: 177 
-   /      \      Shell: bash 
-  /   ,,   \     Terminal: pid1 
- /   |  |  -\    Memory: 7160MiB / 64317MiB
-/_-''    ''-_\   Website: devs.games
+     ---(_)   os     Ubuntu 20.04.2 LTS
+ _/  ---  \   host   Google Compute Engine
+(_) |   |     kernel 5.11.0-1020-gcp
+  \  --- _/   uptime 1h 24m
+     ---(_)   pkgs   140
+              memory 7886M / 64317M
 ```
